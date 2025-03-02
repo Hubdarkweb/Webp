@@ -1,0 +1,4 @@
+name = "my-telegram-bot"
+type = "javascript"
+main = "workers.js"  # Ensure this matches your script name
+compatibility_date = "2025-03-02"
